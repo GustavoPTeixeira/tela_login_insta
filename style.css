@@ -103,10 +103,10 @@ body{
     background-size: cover;
 }
 .app-donwload:nth-child(1){
-    background-image: url("img/app-store.png");
+    background-image: url('img/app-store.png');
 }
 .app-donwload:nth-child(2){
-    background-image: url("img/google-play-badge.png");
+    background-image: url('img/google-play-badge.png');
 }
 
 /* media queries */
